@@ -1,1 +1,1 @@
-new test-demo
+test-demo
